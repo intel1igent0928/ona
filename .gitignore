@@ -1,0 +1,19 @@
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore editor files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Ignore node modules if any
+node_modules/
+
+# Ignore Python cache if used
+__pycache__/
+*.py[cod]
+
+# Ignore local environment files
+.env
